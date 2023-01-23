@@ -6,7 +6,7 @@ C   A
 D   B
 
 folder name:
-measuringWindowLength_windowType_sensor_rangeStart_rangeStop
+measuringWindowLength_windowType_rangeStart_rangeStop
 
 file name:
 UAVname_sensorRange_FFT_sensorType_measuringWindowLength_windowType_sensor_rangeStart_rangeStop_ABCD.csv
