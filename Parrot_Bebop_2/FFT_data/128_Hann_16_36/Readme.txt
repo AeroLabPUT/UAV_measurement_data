@@ -9,7 +9,7 @@ folder name:
 measuringWindowLength_windowType_sensor_rangeStart_rangeStop
 
 file name:
-UAVname_ACCELrange_FFT_measuringWindowLength_windowType_sensor_rangeStart_rangeStop_ABCD.csv
+UAVname_sensorRange_FFT_sensorType_measuringWindowLength_windowType_sensor_rangeStart_rangeStop_ABCD.csv
 
 ABCD:
 0 - no fault
