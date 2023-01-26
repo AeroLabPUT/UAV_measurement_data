@@ -17,7 +17,7 @@ ABCD:
 2 - bent tip
 
 
-Each line contains (rangeStop - rangeStart + 1)  values for every of 12 sensor axis, i.e. if rangeStop = 52 and rangeStart = 25, there are 396 values in every line, because 28*4*3 = 336
+Each line contains (rangeStop - rangeStart + 1)  values for every of 12 sensor axis, i.e. if rangeStop = 52 and rangeStart = 25, there are 336 values in every line, because 28*4*3 = 336
 
 The number of lines is: rawFileLinesNumber/(measuringWindowLength * 2) + 1, i.e. for 86016 lines in the raw file there is 86016/(128 * 2) + 1 = 337
 
