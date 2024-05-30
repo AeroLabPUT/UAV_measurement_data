@@ -6,10 +6,10 @@ The names of the main directories indicate the construction of the UAV from whic
 
 More information about the project can be found at: 
 
-https://uav.put.poznan.pl/archives/763
+AeroLAB website: https://uav.put.poznan.pl/archives/763
 
-https://link.springer.com/article/10.1007/s10846-024-02101-7
+JINT paper https://link.springer.com/article/10.1007/s10846-024-02101-7
 
-https://ieeexplore.ieee.org/document/10156238
+ICUAS paper: https://ieeexplore.ieee.org/document/10156238
 
-https://ieeexplore.ieee.org/document/10417427
+SII paper: https://ieeexplore.ieee.org/document/10417427
