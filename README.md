@@ -5,6 +5,7 @@ The repository contains sensory data from drones collected during flights with d
 The names of the main directories indicate the construction of the UAV from which the data was collected. The subsequent folders include Readme.txt files detailing the contents of each folder.
 
 More information about the project can be found at: 
+
 https://uav.put.poznan.pl/archives/763
 
 https://link.springer.com/article/10.1007/s10846-024-02101-7
