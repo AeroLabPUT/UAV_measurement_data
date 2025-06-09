@@ -20,4 +20,4 @@ B_ACCEL_x_H, B_ACCEL_x_L, B_ACCEL_y_H, B_ACCEL_y_L, B_ACCEL_z_H, B_ACCEL_z_L, B_
 C_ACCEL_x_H, C_ACCEL_x_L, C_ACCEL_y_H, C_ACCEL_y_L, C_ACCEL_z_H, C_ACCEL_z_L, C_GYRO_x_H, C_GYRO_x_L, C_GYRO_y_H, C_GYRO_y_L, C_GYRO_z_H, C_GYRO_z_L, 
 D_ACCEL_x_H, D_ACCEL_x_L, D_ACCEL_y_H, D_ACCEL_y_L, D_ACCEL_z_H, D_ACCEL_z_L, D_GYRO_x_H, D_GYRO_x_L, D_GYRO_y_H, D_GYRO_y_L, D_GYRO_z_H, D_GYRO_z_L.
 
-Data were taken at a rate of 500 measurements per second.  8616 lines correspond to 172,032 seconds.
+Data were taken at a rate of 500 measurements per second.  86016 lines correspond to 172,032 seconds.
