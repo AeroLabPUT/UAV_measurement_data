@@ -22,4 +22,4 @@ D_ax, D_ay, D_az, D_gx, D_gy, D_gz.
 
 The data were presented in [g] for the accelerometer and [dps] for the gyroscope.
 
-Data were taken at a rate of 500 measurements per second.  8616 lines correspond to 172,032 seconds.
+Data were taken at a rate of 500 measurements per second.  86016 lines correspond to 172,032 seconds.
