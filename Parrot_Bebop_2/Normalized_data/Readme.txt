@@ -21,4 +21,4 @@ D_ax, D_ay, D_az, D_gx, D_gy, D_gz.
 
 The data were normalized to values between -1 and +1.
 
-Data were taken at a rate of 500 measurements per second.  8616 lines correspond to 172,032 seconds.
+Data were taken at a rate of 500 measurements per second.  86016 lines correspond to 172,032 seconds.
