@@ -12,6 +12,8 @@ ABCD:
 0 - no fault
 1 - chipped edge
 2 - bent tip
+3 - cut off tip
+4 - bent tip + cut off tip
 
 Each line contains 96 characters, corresponding to 48 bytes in HEX format. 
 These are data sequentially from the IMU registers. 2 registers (H-MSB and L-LSB) for each accelerometer axis and 2 registers for each gyroscope axis): 
