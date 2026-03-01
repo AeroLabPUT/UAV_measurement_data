@@ -14,3 +14,5 @@ JINT paper: https://link.springer.com/article/10.1007/s10846-024-02101-7
 ICUAS paper: https://ieeexplore.ieee.org/document/10156238
 
 SII paper: https://ieeexplore.ieee.org/document/10417427
+
+MMAR paper: https://ieeexplore.ieee.org/document/11150831
